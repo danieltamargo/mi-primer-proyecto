@@ -7,3 +7,10 @@ Añado otra línea
 Silvia añade una última fila
 Otra línea más
 Y otra!!
+
+```python
+def hola_mundo():
+    print("Hola mundo")
+
+hola_mundo() # Llamada a la función
+```
