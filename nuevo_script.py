@@ -12,3 +12,11 @@ def resta_lista(lista):
     return resultado
 
 print(resta_lista(lista))
+
+def multiplica_lista(lista):
+    resultado = 1
+    for i in lista:
+        resultado *= i
+    return resultado
+
+print(multiplica_lista(lista))
